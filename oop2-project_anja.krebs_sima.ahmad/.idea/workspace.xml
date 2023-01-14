@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d66588cc-3967-4dec-b543-8dd400bcf2ee" name="Changes" comment="- Style.css hinzugefügt&#10;- pngs hinzugefügt&#10;- errors korriegiert">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/Data_access_layer/MovieDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/Data_access_layer/MovieDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/domain/MovieManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/domain/MovieManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/ui_layer/ApplicationUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/ui_layer/ApplicationUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/ui_layer/MovieTableView.java" beforeDir="false" afterPath="$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/ui_layer/MovieTableView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/anja-krebs_sima-ahmad_master/src/main/java/ui_layer/ApplicationUI.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KAaeTFrhZLUiVL4jlOKQOCfStX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Tab-separated (TSV)_id",
+    "database.data.extractors.current.id": "Tab-separated (TSV)_id",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/simaa/Downloads/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib/javafx.web.jar",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "database.data.csv.formats",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\src\main\resources\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\anja-krebs_sima-ahmad_master\src\main\resources\data" />
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\anja-krebs_sima-ahmad_master\src\main\resources" />
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\anja-krebs_sima-ahmad_master" />
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\anja-krebs_sima-ahmad_master\src" />
+      <recent name="C:\Users\simaa\Downloads\oop2-project_anja.krebs_sima.ahmad\anja-krebs_sima-ahmad_master\src\main\java\ui_layer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MovieApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui_layer.MovieApp" />
+      <module name="anja-krebs_sima-ahmad_master" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.fxml,javafx.controls,javafx.graphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_layer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui_layer.MovieApp" />
+      <module name="anja-krebs_sima-ahmad_master" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.fxml,javafx.controls,javafx.graphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui_layer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieApp" />
+        <item itemvalue="Application.MovieApp" />
+        <item itemvalue="Application.MovieApp" />
+        <item itemvalue="Application.MovieApp" />
+        <item itemvalue="Application.MovieApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66588cc-3967-4dec-b543-8dd400bcf2ee" name="Changes" comment="" />
+      <created>1673419937102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673419937102</updated>
+      <workItem from="1673419938483" duration="22107000" />
+      <workItem from="1673509017978" duration="39262000" />
+      <workItem from="1673687214060" duration="5384000" />
+    </task>
+    <task id="LOCAL-00001" summary="created a new Branch">
+      <created>1673421444666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421444666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Tabelle hinzugefügt&#10;- FilmReader gelöscht ond tsv file ist in MovieManager">
+      <created>1673432723820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673432723820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Tabelle hinzugefügt&#10;- FilmReader gelöscht ond tsv file ist in MovieManager">
+      <created>1673432792323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673432792323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Style.css hinzugefügt&#10;- pngs hinzugefügt&#10;- errors korriegiert">
+      <created>1673690763465</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673690763465</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created a new Branch" />
+    <MESSAGE value="- Tabelle hinzugefügt&#10;- FilmReader gelöscht ond tsv file ist in MovieManager" />
+    <MESSAGE value="Unversioned Files" />
+    <MESSAGE value="- Style.css hinzugefügt&#10;- pngs hinzugefügt&#10;- errors korriegiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Style.css hinzugefügt&#10;- pngs hinzugefügt&#10;- errors korriegiert" />
+  </component>
+</project>

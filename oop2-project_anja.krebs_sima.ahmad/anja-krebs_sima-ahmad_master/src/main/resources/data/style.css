@@ -1,0 +1,190 @@
+.root {
+    -fx-padding: 10;
+    -fx-pref-height: 600;
+    -fx-pref-width: 1200;
+    -fx-font-family: 'Roboto';
+    -fx-background-color:  linear-gradient(#092a60, #37bcbb);
+}
+
+.header {
+
+}
+
+/*right Side */
+
+.rightView{
+    -fx-vgap:5;
+    -fx-padding: 30 30 30 30;
+    -fx-background-color: #092a60;
+    -fx-text-fill: #37bcbb;
+}
+
+.Title{
+    -fx-font-size: 40;
+    -fx-text-fill: #37bcbb;
+}
+
+.Subtitle{
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-text-fill: #37bcbb;
+}
+
+.Slider .axis { -fx-tick-label-fill: white; }
+
+.choice-box .label {
+    -fx-text-fill: white;
+    -fx-background-color: #47698c;
+}
+
+
+.Formtitle{
+    -fx-font-size:12;
+    -fx-font-weight: bold;
+    -fx-text-fill: #37bcbb;
+}
+
+.Text{
+    -fx-font-size: 12;
+    -fx-text-fill: #37bcbb;
+    -fx-font-weight: bold;
+}
+
+.TextField {
+    -fx-background-color: #47698c;
+    -fx-border-color: #37bcbb;
+    -fx-text-inner-color:#ffffff;
+    -fx-font-size:12;
+    -fx-border-width: 2 2 2 2 ;
+    -fx-border-radius: 5px 5px 5px 5px;
+    -fx-background-radius: 5px 5px 5px 5px;
+}
+
+.CastField {
+    -fx-background-color: #47698c;
+    -fx-border-color: #37bcbb;
+    -fx-text-inner-color:#000000;
+    -fx-font-size:12;
+    -fx-border-width: 2 2 2 2 ;
+    -fx-border-radius: 5px 5px 5px 5px;
+    -fx-background-radius: 5px 5px 5px 5px;
+}
+
+.open{
+    -fx-background-image: url("folder.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.open:pressed{
+    -fx-background-image: url("folder.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #37bcbb;
+}
+
+.save{
+    -fx-background-image: url("save.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.save:pressed{
+    -fx-background-image: url("save.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+
+.plus{
+    -fx-background-image: url("plus.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-row-valignment: center;
+    -fx-column-halignment: center;
+}
+.plus:pressed{
+    -fx-background-image: url("plus.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+
+.minus{
+    -fx-background-image: url("minus.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.minus:pressed{
+    -fx-background-image: url("minus.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+.search{
+    -fx-background-image: url("search.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.search:pressed{
+    -fx-background-image: url("search.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+
+.up{
+    -fx-background-image: url("up.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.up:pressed{
+    -fx-background-image: url("up.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+
+.down{
+    -fx-background-image: url("down.png");
+    -fx-background-size: 100%, 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+.down:pressed{
+    -fx-background-image: url("down.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%, 100%;
+    -fx-background-color: #47698c;
+}
+
+.choicebox .list-view .list-cell:hover {
+    -fx-text-fill: red;
+}
+.choicebox .cell:selected {
+    -fx-text-fill: red;
+}
+
+.ProfitWin{
+    -fx-font-size: 12;
+    -fx-text-fill: #00ff18;
+}
+
+.ProfitLoss{
+    -fx-font-size: 12;
+    -fx-text-fill: #ff0000;
+}
+
+.ProfitNeutral{
+    -fx-font-size: 12;
+    -fx-text-fill: #7a7a7a
+}
+.movie-table{
+    -fx-font-size: 16px;
+    -fx-background-color: white;
+}
+
